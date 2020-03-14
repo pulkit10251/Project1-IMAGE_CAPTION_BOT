@@ -1,0 +1,7 @@
+
+*.jpg
+*.txt
+*.ipynb
+flickr8k.zip
+flickr8k/model_weights.h5
+flickr8k/train_encoded_images.p
